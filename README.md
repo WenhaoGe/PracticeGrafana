@@ -25,3 +25,17 @@
 ![Screenshot 2024-10-30 at 11 29 23 AM](https://github.com/user-attachments/assets/4ed527c9-fd6c-46c5-a72a-ed51fcb343e2)<br><br>
 
 ![Screenshot 2024-10-30 at 11 30 05 AM](https://github.com/user-attachments/assets/c34b9d74-4004-4855-8175-5a220b4033e9)<br><br>
+
+## Create a Grafana-managed alert rule
+
+![Screenshot 2024-10-30 at 11 57 58 AM](https://github.com/user-attachments/assets/185edc81-626b-4d56-abc4-64d0ed6aaf73)<br><br>
+
+## Create alert rules
+
+![Screenshot 2024-10-30 at 12 08 49 PM](https://github.com/user-attachments/assets/0dda21ee-595e-4192-9d48-b3eb006c0427)<br><br>
+
+
+![Screenshot 2024-10-30 at 12 11 38 PM](https://github.com/user-attachments/assets/abcf2bc4-5062-42c7-bc03-00307c20857d)<br><br>
+
+
+
